@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 837 508 121 286
+	type: motorcycle
+	make: Honda
+	model: Biz
+	year: 2008
+plate: APY4917
+corners: 881,680 918,683 918,709 880,706
+	char 1: 887 686 6 9
+	char 2: 896 687 7 9
+	char 3: 906 687 7 10
+	char 4: 885 695 6 9
+	char 5: 892 696 7 9
+	char 6: 901 696 4 10
+	char 7: 907 697 6 10

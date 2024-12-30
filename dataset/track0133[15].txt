@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 1073 283 559 438
+	type: car
+	make: Toyota
+	model: Corolla
+	year: 2008
+plate: AHY9777
+corners: 1246,484 1381,484 1381,524 1247,523
+	char 1: 1250 497 16 24
+	char 2: 1266 496 17 25
+	char 3: 1283 496 16 25
+	char 4: 1307 496 16 25
+	char 5: 1323 496 16 25
+	char 6: 1339 496 18 25
+	char 7: 1357 496 16 25

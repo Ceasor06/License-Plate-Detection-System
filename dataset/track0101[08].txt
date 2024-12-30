@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 342 246 378 261
+	type: car
+	make: Ford
+	model: Fiesta
+	year: 2005
+plate: AMR2189
+corners: 413,366 470,365 466,391 407,392
+	char 1: 409 378 8 11
+	char 2: 417 377 9 12
+	char 3: 424 376 9 12
+	char 4: 435 377 8 11
+	char 5: 444 376 5 12
+	char 6: 451 376 7 11
+	char 7: 458 376 8 11

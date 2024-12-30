@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 757 502 297 261
+	type: car
+	make: Hyundai
+	model: HB20
+	year: 2013
+plate: AWP0816
+corners: 874,668 946,668 946,692 873,692
+	char 1: 876 676 9 14
+	char 2: 885 675 9 14
+	char 3: 894 676 9 13
+	char 4: 907 676 9 13
+	char 5: 916 676 9 13
+	char 6: 927 676 5 14
+	char 7: 934 676 8 14

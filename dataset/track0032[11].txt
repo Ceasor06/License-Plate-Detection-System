@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 313 485 472 362
+	type: car
+	make: Renault
+	model: Logan
+	year: 2017
+plate: BBG6283
+corners: 452,716 559,715 558,749 449,750
+	char 1: 456 728 12 18
+	char 2: 469 727 12 18
+	char 3: 482 727 12 18
+	char 4: 501 727 12 18
+	char 5: 514 727 12 18
+	char 6: 528 727 12 18
+	char 7: 541 727 12 18

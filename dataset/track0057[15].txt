@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 1110 143 810 565
+	type: car
+	make: Mercedes-Benz
+	model: 712 C
+	year: 1999
+plate: AIS0951
+corners: 1378,566 1511,571 1511,613 1377,607
+	char 1: 1386 580 16 23
+	char 2: 1406 580 7 24
+	char 3: 1418 581 15 23
+	char 4: 1441 582 15 23
+	char 5: 1457 583 15 23
+	char 6: 1473 584 15 23
+	char 7: 1492 584 7 24

@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 643 390 287 618
+	type: motorcycle
+	make: Honda
+	model: CBX
+	year: 2006
+plate: MCA9954
+corners: 708,767 789,777 778,828 696,817
+	char 1: 714 781 17 19
+	char 2: 736 784 16 19
+	char 3: 757 786 14 19
+	char 4: 707 799 16 19
+	char 5: 724 801 15 19
+	char 6: 741 803 15 19
+	char 7: 757 805 14 20

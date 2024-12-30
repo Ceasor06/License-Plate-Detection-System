@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 293 0 889 560
+	type: car
+	make: Mercedes-Benz
+	model: OF-1418 Neobus Mega
+	year: 2007
+plate: APB4327
+corners: 839,343 942,347 945,379 840,376
+	char 1: 845 353 12 20
+	char 2: 857 353 11 20
+	char 3: 869 355 12 19
+	char 4: 888 356 12 19
+	char 5: 901 356 12 19
+	char 6: 913 356 13 19
+	char 7: 926 356 12 19

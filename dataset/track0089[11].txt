@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 797 300 439 377
+	type: car
+	make: Volkswagen
+	model: Gol
+	year: 2009
+plate: MHB6459
+corners: 965,561 1077,562 1078,596 965,594
+	char 1: 971 571 13 20
+	char 2: 985 571 12 20
+	char 3: 999 572 12 19
+	char 4: 1019 572 13 19
+	char 5: 1033 572 12 19
+	char 6: 1047 573 12 18
+	char 7: 1060 573 13 19

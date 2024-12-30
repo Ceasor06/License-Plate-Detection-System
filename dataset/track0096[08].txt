@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 1193 302 312 312
+	type: car
+	make: JAC
+	model: J2
+	year: 2013
+plate: AWX9307
+corners: 1316,523 1395,529 1393,554 1314,548
+	char 1: 1317 532 10 15
+	char 2: 1328 532 10 15
+	char 3: 1337 533 11 15
+	char 4: 1351 535 11 14
+	char 5: 1362 536 9 14
+	char 6: 1371 537 10 14
+	char 7: 1381 537 9 15

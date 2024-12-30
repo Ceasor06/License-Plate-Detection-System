@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 917 392 206 538
+	type: motorcycle
+	make: Honda
+	model: Biz
+	year: 2003
+plate: ALJ9348
+corners: 999,752 1066,749 1070,790 1003,794
+	char 1: 1010 761 13 16
+	char 2: 1027 761 13 14
+	char 3: 1046 759 11 15
+	char 4: 1009 777 12 14
+	char 5: 1023 775 11 15
+	char 6: 1036 774 11 16
+	char 7: 1049 774 12 15

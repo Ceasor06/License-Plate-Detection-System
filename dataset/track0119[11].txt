@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 641 0 753 751
+	type: car
+	make: Agrale
+	model: Marcopolo Senior
+	year: 2008
+plate: IOZ3616
+corners: 949,681 1080,686 1080,728 948,723
+	char 1: 956 694 7 25
+	char 2: 967 695 17 24
+	char 3: 983 696 16 24
+	char 4: 1007 698 16 23
+	char 5: 1023 698 16 23
+	char 6: 1043 699 8 23
+	char 7: 1055 700 15 23

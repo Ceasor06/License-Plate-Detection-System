@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 662 442 620 527
+	type: car
+	make: GM Chevrolet
+	model: Classic
+	year: 2011
+plate: ASU1099
+corners: 932,647 1093,652 1095,699 932,695
+	char 1: 941 664 17 27
+	char 2: 960 664 18 28
+	char 3: 979 664 20 28
+	char 4: 1014 665 9 29
+	char 5: 1029 667 18 27
+	char 6: 1050 667 17 27
+	char 7: 1069 667 18 27

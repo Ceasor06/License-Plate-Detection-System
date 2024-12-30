@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 721 76 405 432
+	type: car
+	make: Mercedes-Benz
+	model: Neobus Mega BRT
+	year: 2011
+plate: AUY8870
+corners: 891,462 956,465 956,488 889,485
+	char 1: 892 470 9 13
+	char 2: 901 470 8 13
+	char 3: 909 470 8 13
+	char 4: 921 471 8 12
+	char 5: 929 471 8 12
+	char 6: 937 471 8 13
+	char 7: 945 471 8 13

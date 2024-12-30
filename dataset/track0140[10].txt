@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 474 0 1103 834
+	type: car
+	make: Mercedes-Benz
+	model: OF-1418 Neobus Mega
+	year: 2011
+plate: AVA1466
+corners: 907,545 1085,552 1083,602 901,597
+	char 1: 907 562 24 30
+	char 2: 933 563 22 30
+	char 3: 953 564 22 30
+	char 4: 990 565 14 30
+	char 5: 1008 566 22 30
+	char 6: 1030 566 23 31
+	char 7: 1052 568 24 29

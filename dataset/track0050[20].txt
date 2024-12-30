@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 250 387 747 632
+	type: car
+	make: Toyota
+	model: Etios
+	year: 2016
+plate: BAZ2538
+corners: 523,865 721,865 719,929 519,929
+	char 1: 529 885 23 33
+	char 2: 554 885 21 34
+	char 3: 578 885 23 34
+	char 4: 614 886 23 33
+	char 5: 639 886 21 33
+	char 6: 663 886 21 33
+	char 7: 687 887 21 32

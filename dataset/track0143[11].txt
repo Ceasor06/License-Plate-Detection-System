@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 441 394 213 430
+	type: motorcycle
+	make: Suzuki
+	model: GSR
+	year: 2012
+plate: AXH5087
+corners: 475,666 526,672 515,709 463,703
+	char 1: 476 675 11 14
+	char 2: 491 677 12 13
+	char 3: 504 678 12 14
+	char 4: 469 689 13 14
+	char 5: 480 690 13 14
+	char 6: 491 691 13 14
+	char 7: 503 692 11 14

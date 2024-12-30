@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 526 433 421 379
+	type: car
+	make: GM Chevrolet
+	model: Agile
+	year: 2009
+plate: ARZ9326
+corners: 679,682 785,683 787,721 678,720
+	char 1: 684 696 13 19
+	char 2: 697 695 13 21
+	char 3: 709 695 15 20
+	char 4: 729 696 13 20
+	char 5: 742 696 13 19
+	char 6: 755 696 13 20
+	char 7: 768 696 13 19

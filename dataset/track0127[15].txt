@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 952 398 244 558
+	type: motorcycle
+	make: Honda
+	model: CG
+	year: 2008
+plate: AQW1379
+corners: 1060,736 1135,733 1145,788 1067,793
+	char 1: 1074 748 16 22
+	char 2: 1094 747 15 20
+	char 3: 1114 744 15 23
+	char 4: 1078 770 8 20
+	char 5: 1088 767 16 22
+	char 6: 1104 766 14 22
+	char 7: 1120 766 15 21

@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 1159 476 761 462
+	type: car
+	make: Peugeot
+	model: 206
+	year: 2005
+plate: GZM8901
+corners: 1704,695 1830,696 1841,736 1713,738
+	char 1: 1716 710 16 22
+	char 2: 1732 710 17 23
+	char 3: 1747 710 18 24
+	char 4: 1771 711 16 23
+	char 5: 1786 711 17 22
+	char 6: 1801 711 18 22
+	char 7: 1821 710 10 23

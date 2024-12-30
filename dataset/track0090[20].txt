@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 186 253 310 484
+	type: motorcycle
+	make: Honda
+	model: CBX
+	year: 2007
+plate: AOT0264
+corners: 250,529 311,538 293,578 231,570
+	char 1: 248 540 14 16
+	char 2: 265 543 15 14
+	char 3: 285 545 13 15
+	char 4: 239 555 16 15
+	char 5: 252 557 15 14
+	char 6: 265 558 15 15
+	char 7: 278 560 14 15

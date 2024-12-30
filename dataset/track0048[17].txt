@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 0 377 641 492
+	type: car
+	make: Fiat
+	model: Toro
+	year: 2017
+plate: BBJ9695
+corners: 119,721 246,714 246,754 118,761
+	char 1: 126 733 14 22
+	char 2: 142 732 13 22
+	char 3: 157 731 13 22
+	char 4: 181 730 13 22
+	char 5: 196 730 13 21
+	char 6: 211 728 14 22
+	char 7: 227 727 13 22

@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 487 0 852 792
+	type: car
+	make: Mercedes-Benz
+	model: OF-1418 Neobus Mega
+	year: 2009
+plate: ARY9241
+corners: 851,561 991,567 987,610 851,609
+	char 1: 857 580 17 24
+	char 2: 874 581 17 25
+	char 3: 891 581 16 25
+	char 4: 914 581 18 25
+	char 5: 932 581 17 26
+	char 6: 948 581 17 24
+	char 7: 970 581 6 24

@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 803 171 259 696
+	type: motorcycle
+	make: Honda
+	model: CG
+	year: 2003
+plate: AKT8174
+corners: 883,576 964,575 965,628 882,628
+	char 1: 892 589 20 19
+	char 2: 912 587 19 21
+	char 3: 933 588 17 21
+	char 4: 892 607 14 20
+	char 5: 910 607 9 20
+	char 6: 922 607 14 20
+	char 7: 937 607 15 20
